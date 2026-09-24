@@ -49,6 +49,9 @@ Scikit-Learn • XGBoost • Flask • Pandas • NumPy
 - XGBoost Classification
 - Flask + SQLite
 
+### Quiz App with difficulty adaptation
+- React.js,Supabase
+- Helps aspirants to their level of preperation
 ---
 
 ### 🎓 Student Management System
@@ -59,10 +62,11 @@ Scikit-Learn • XGBoost • Flask • Pandas • NumPy
 
 ## 🏆 Achievements
 
-- 🥈 Silver Medal - VTU State Level Cultural Fest
 - Java Full Stack Training - JSpiders
 - Microsoft AI Skills Challenge
 - Claude Code Certification
+- 🥈 Silver Medal - VTU State Level Cultural Fest
+
 
 ---
 
