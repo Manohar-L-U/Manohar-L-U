@@ -6,7 +6,7 @@ I am passionate about designing scalable backend applications and solving real-w
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 A Little About Me
 
 - 🎓 BE in Computer Science & Design Engineering
 - 🌱 Currently learning Spring Boot, Microservices and System Design
